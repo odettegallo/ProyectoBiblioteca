@@ -67,4 +67,6 @@ El script `schema.sql` incluye una cuenta de usuario por defecto para iniciar se
 4. Selecciona tu servidor **Apache Tomcat v9.0** configurado y presiona **Finish**.
 5. Abre tu navegador e ingresa a: `http://localhost:8080/ProyectoBiblioteca/`
 
+## Demostración
+
 ![Demostración](./WebContent/assets/Animation_BibliotecaUNTEC.gif)
